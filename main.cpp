@@ -2,7 +2,7 @@
 #include <iostream>
 #include <algorithm>
 using namespace std;
-using namespace MojeOperatory;
+using namespace MojOperatory;
 
 
  TString fun(const char* c){
